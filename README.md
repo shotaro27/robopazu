@@ -11,7 +11,7 @@
 	- firmataが入っていなかったら最新のものをインストール
 3. node.jsをインストール
 4. `npm install`コマンドで必要なライブラリをインストール
-5. enchant.jsを公式サイトからダウンロードして、`enchant.js`ファイルを`kinotakeproject`フォルダに入れる
+5. enchant.jsを公式サイトからダウンロードして、`enchant.js`ファイルを入れる
 6. Arduinoの回路を組み、firmataライブラリーの`StandardFirmata`をArduinoに入れる
 
 ## 実行方法
